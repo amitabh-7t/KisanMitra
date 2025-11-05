@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.venv/
+venv/
+.env
+env/
+
+# VSCode/PyCharm
+.vscode/
+.idea/
+
+# Logs and DB
+*.log
+*.sqlite3
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Mac
+.DS_Store
+
+# Python packaging
+pip-wheel-metadata/
