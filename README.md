@@ -23,4 +23,3 @@ This repository contains the Phase 1 MVP: voice/text I/O, a lightweight advisory
    ```bash
    cd backend
    docker compose up --build
-   
